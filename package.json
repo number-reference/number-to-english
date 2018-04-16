@@ -1,0 +1,19 @@
+{
+  "name": "number-to-english",
+  "version": "1.0.0",
+  "description": "Describe any rational number in English",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timeemit/number-to-english.git"
+  },
+  "author": "Liam Norris",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/timeemit/number-to-english/issues"
+  },
+  "homepage": "https://github.com/timeemit/number-to-english#readme"
+}
