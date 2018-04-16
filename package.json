@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/timeemit/number-to-english/issues"
   },
-  "homepage": "https://github.com/timeemit/number-to-english#readme"
+  "homepage": "https://github.com/timeemit/number-to-english#readme",
+  "dependencies": {
+    "integer-to-cardinal-english": "^1.1.0",
+    "integer-to-ordinal-english": "^1.0.2"
+  }
 }
