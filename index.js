@@ -26,7 +26,7 @@ const rational = function(n) {
   var denominator = ordinal(10 ** split[1].length).split(" ");
   var precision = denominator[denominator.length - 1];
   var quotient = cardinal(+split[1]) + " " + precision;
-  
+
   if (+split[1] !== 1) {
     quotient += "s";
   }
