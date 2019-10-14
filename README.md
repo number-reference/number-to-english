@@ -19,7 +19,7 @@ const english = require("number-english");
 Pass in any rational number:
 
 ```node
-english(1521.12); // => "One Thousand and Twenty-One and Twelve Hundredths"
+english(1521.12); // => "One Thousand Five Hundred and Twenty-One and Twelve Hundredths"
 ```
 
 Or a ratio of integers:
