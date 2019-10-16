@@ -4,7 +4,7 @@
   "description": "Describe any rational number in English",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node lib/cardinal_test.js",
     "flow": "flow",
     "prepublish": "flow-remove-types src/ -d lib/"
   },
